@@ -11,7 +11,7 @@ public class Average {
         // Obtener un número aleatorio entre 0 y 19 (ambos incluidos)
         int count = random.nextInt(20);  // nextInt(20) genera un número entre 0 y 19
         System.out.println("Cantidad de números a generar: " + count);
-
+        //jakdsñfjasdl
         // Inicializar una variable para la suma total
         int total = 0;
 

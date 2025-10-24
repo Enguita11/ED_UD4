@@ -8,7 +8,7 @@ public class mediageométrica {
     public static void main(String[] args) {
         // Crear un objeto Random para generar números aleatorios
         Random random = new Random();
-
+ //akdsñfljasdñfljñ
         // Obtener un número aleatorio entre 0 y 19 (ambos incluidos)
         int count = random.nextInt(20);  // nextInt(20) genera un número entre 0 y 19
         System.out.println("Cantidad de números a generar: " + count);
