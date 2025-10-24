@@ -1,3 +1,4 @@
+//Statistics
 package ed.ud4;
 import java.time.LocalTime;
 import java.util.Random;
@@ -5,6 +6,7 @@ import java.util.Random;
 public class Average {
 
     public static void main(String[] args) {
+        System.out.println("Statistics");
         // Crear un objeto Random para generar números aleatorios
         Random random = new Random();
 
