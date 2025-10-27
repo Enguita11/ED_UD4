@@ -30,7 +30,7 @@ public class Average {
         // Mostrar la media
         double media = (double) total / (double) count;
         System.out.println("Media: " + media);
-
+//CAMBIO valor minimo
         // Mensaje de fin de proceso
         System.out.println("Fin de proceso");
 
