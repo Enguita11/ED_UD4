@@ -33,6 +33,6 @@ public class Average {
 //CAMBIO valor minimo
         // Mensaje de fin de proceso
         System.out.println("Fin de proceso");
-
+//Cambio valor maximo
     }
 }
